@@ -7,13 +7,21 @@
   "scripts": {
     "build": "tsc --declaration && rollup -c"
   },
-  "keywords": [],
+  "keywords": [
+    "vite-plugin",
+    "i18n",
+    "check-keys"
+  ],
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
       "import": "./dist/index.js",
       "types": "./dist/index.d.ts"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heimeiyaodagongzai/vite-plugin-i18n-check-keys"
   },
   "author": "",
   "license": "ISC",
