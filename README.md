@@ -29,3 +29,8 @@ export default defineConfig({
   ],
 })
 ```
+
+# Options
+
+This plugin is a package of `i18n-check-keys`, please refer to the original document for specific configuration
+[Document](https://github.com/heimeiyaodagongzai/i18n-check-keys#options)

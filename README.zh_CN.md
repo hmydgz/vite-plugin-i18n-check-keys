@@ -27,3 +27,8 @@ export default defineConfig({
   ],
 })
 ```
+
+# Options
+该插件为 `i18n-check-keys` 的封装，具体配置请查看原文档
+
+[Document](https://github.com/heimeiyaodagongzai/i18n-check-keys#options)
