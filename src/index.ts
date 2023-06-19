@@ -1,8 +1,7 @@
 import type { Plugin } from 'vite'
-import type { I18nCheckKeysOptions } from 'i18n-check-keys'
 import { checkI18nKeys as check } from 'i18n-check-keys'
 
-export function checkI18nKeys(options: I18nCheckKeysOptions & { checkPath?: string } = {}) {
+export default function checkI18nKeys(options: Parameters<typeof check>[0] & { checkPath?: string } = {}) {
   const { run } = check(options)
   const checkPath = options.checkPath || process.cwd()
 

@@ -18,7 +18,7 @@ pnpm add vite-plugin-i18n-check-keys -D
 # Usage
 ```js
 import { defineConfig } from 'vite'
-import { checkI18nKeys } from 'vite-plugin-i18n-check-keys'
+import checkI18nKeys from 'vite-plugin-i18n-check-keys'
 
 export default defineConfig({
   plugins: [
