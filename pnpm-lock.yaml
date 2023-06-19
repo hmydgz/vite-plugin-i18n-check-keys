@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   i18n-check-keys:
-    specifier: 0.1.7-alpha.3
-    version: 0.1.7-alpha.3
+    specifier: ^0.1.9
+    version: 0.1.9
 
 devDependencies:
   '@rollup/plugin-commonjs':
@@ -586,8 +586,8 @@ packages:
       function-bind: 1.1.1
     dev: true
 
-  /i18n-check-keys@0.1.7-alpha.3:
-    resolution: {integrity: sha512-AHcawsUOn0XEiEf9nDtlrGK0hhl7geI6+3TxxzP7aqIUL+XxhvD6FrYP46PkyycJLNG+7LxmstOdpfOQWaBaWg==}
+  /i18n-check-keys@0.1.9:
+    resolution: {integrity: sha512-23/O8q/a9YWZk4bdbAWOjOkEM0pVVYPt6Sh5Tr1N4biFAy/nIOY4D3gdlkuKFHkxMeqef0O/MR8Mmn1UGeGv8w==}
     dependencies:
       '@babel/parser': 7.22.5
       '@babel/traverse': 7.22.5
