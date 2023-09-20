@@ -2,6 +2,10 @@
 
 [English](./README.md) | 简体中文
 
+[![npm](https://img.shields.io/npm/v/vite-plugin-i18n-check-keys.svg)](https://github.com/hmydgz/vite-plugin-i18n-check-keys) [![npm](https://img.shields.io/npm/dt/vite-plugin-i18n-check-keys.svg)](https://github.com/hmydgz/vite-plugin-i18n-check-keys) [![build status](https://github.com/hmydgz/vite-plugin-i18n-check-keys/actions/workflows/build.action.yml/badge.svg?branch=main)](https://github.com/hmydgz/vite-plugin-i18n-check-keys/actions)
+
+用于国际化键检查的 Vite 插件
+
 ![](http://qiniuyun.hmydgz.top/doc/img/i18n-check-keys-img1.png)
 
 # Install

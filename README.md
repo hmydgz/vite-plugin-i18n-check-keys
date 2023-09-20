@@ -2,7 +2,9 @@
 
 English | [简体中文](./README.zh_CN.md)
 
-用于检查项目中的国际化 key 是否存在遗漏的工具
+[![npm](https://img.shields.io/npm/v/vite-plugin-i18n-check-keys.svg)](https://github.com/hmydgz/vite-plugin-i18n-check-keys) [![npm](https://img.shields.io/npm/dt/vite-plugin-i18n-check-keys.svg)](https://github.com/hmydgz/vite-plugin-i18n-check-keys) [![build status](https://github.com/hmydgz/vite-plugin-i18n-check-keys/actions/workflows/build.action.yml/badge.svg?branch=main)](https://github.com/hmydgz/vite-plugin-i18n-check-keys/actions)
+
+Vite plugin for internationalization key checking
 
 ![](http://qiniuyun.hmydgz.top/doc/img/i18n-check-keys-img1.png)
 
